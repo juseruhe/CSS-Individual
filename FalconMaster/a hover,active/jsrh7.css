@@ -1,0 +1,20 @@
+a { font-size:20px;
+color:olive;
+text-decoration:none;
+margin:5px 5px 5px 5px;
+padding:20px 20px;
+}
+
+a:link{color:pink;
+}
+
+a:hover{text-decoration:underline;
+font-size:30px;
+background:blue;
+color:white;}
+
+a:active{
+background:yellow;
+}
+
+a:visited{text-decoration:line-through;}

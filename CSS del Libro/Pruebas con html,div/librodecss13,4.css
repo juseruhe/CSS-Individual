@@ -1,0 +1,10 @@
+div {
+border-bottom:1px dotted #59D52B;
+
+}
+
+* html div{
+border-bottom:1px solid #59D52B;}
+
+.menu {position:fixed;
+_position:static;}

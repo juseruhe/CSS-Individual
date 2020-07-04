@@ -1,0 +1,10 @@
+table {border:2px solid blue;
+border-collapse:collapse;
+width:700px; }
+table th {border:2px solid blue; 
+padding:25px;   }
+
+
+table tr:hover{background:orange; }
+
+table th:hover{background:olive; }

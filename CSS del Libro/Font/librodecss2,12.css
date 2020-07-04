@@ -1,0 +1,17 @@
+h1,h2,h3{color:rgb(48,110,140);
+font-weight:normal;
+font-family:calibri;}
+
+h1 {font-size:2em; }
+
+h2 {font-size:1.5em; }
+
+h3{font-size:1.2em;}
+
+p span {color:blue;}
+
+h1 span {color: red; }
+
+p a span em {text-decoration:underline; }
+
+p a {color:#c7b5d7;}

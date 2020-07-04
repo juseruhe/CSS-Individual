@@ -1,0 +1,34 @@
+.bi{position:absolute;
+bottom:120px;
+center:30px;
+}
+
+.be{border:5px groove #42BA58;
+padding:4px;
+margin:3px;
+width:200px;
+position:relative;
+center:30px;
+
+}
+
+.ee{float:right;}
+
+.izquierda{float:left;}
+.derecha{float:right;}
+.de{clear:both;}
+
+div#cosa{
+border:5px double #24286A;
+background-color:#54F512;
+padding:0.7px;
+
+
+}
+
+.izquierda{float:left;}
+.derecha{float:right;}
+
+div.seguro {clear:both;}
+
+

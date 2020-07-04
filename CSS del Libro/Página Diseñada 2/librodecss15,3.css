@@ -1,0 +1,55 @@
+img{width:200px; height:60px;}
+form{float:right;
+position:relative;
+bottom:70px;}
+.cabacera{border-bottom:3px solid #B37F7F;
+background:#1ADC11;
+}
+a{text-decoration:none;
+}
+h1{border-bottom:3px solid #B37F7F;}
+.menu{width:150px; height:750px;
+border-right:3px solid #B37F7F;
+border-top:3px solid #B37F7F;
+border-bottom:3px solid #B37F7F;
+border-left:3px solid #B37F7F;
+background:#1ADC11;
+}
+
+.menu  a {margin:10px; }
+
+p{color:#1198DC;}
+
+.principal{
+position:relative;
+bottom:750px;
+left:200px;
+width:800px;
+height:650px;
+background:#1ADC11;
+
+}
+div{margin:10px;
+padding:10px;}
+
+.secundario{
+float:right;
+position:relative;
+bottom:1460px;
+border-right:3px solid #B37F7F;
+border-top:3px solid #B37F7F;
+border-bottom:3px solid #B37F7F;
+border-left:3px solid #B37F7F;
+width:200px;
+background:#1ADC11;}
+
+h1,h2,h3,h4,h5,h6,h7,h8{
+color:#1117DC;}
+
+.pie{clear:both;
+position:relative;
+bottom:1000px;
+text-align:center;
+border:3px solid #B37F7F;
+background:#1ADC11;}
+

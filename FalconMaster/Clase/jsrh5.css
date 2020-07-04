@@ -1,0 +1,7 @@
+div{ width:200px; height:200px; background: purple; color: blue; font-size:60px; float:right;  }
+.caja { width:200px; height:200px; }
+.box { width:200px; height:200px; bottom:20px;}
+.solo {width:200px; height:200px;  } 
+.bueno {width:200px; height:200px;  }
+.no{clear:both;}
+                                         

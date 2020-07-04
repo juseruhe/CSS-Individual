@@ -1,0 +1,38 @@
+.todo{border:2px solid #2EDABB;}
+.encabezado{border:2px solid #2EDABB;}
+.menu{
+float:left;
+width:15%;
+border:2px solid #2EDABB;
+}
+
+.contenido{
+float:center;
+width:85%;
+
+
+}
+
+.contenido .principal{
+float:left;
+width:80%;
+border:2px solid #2EDABB;
+position:relative;
+left:0px;
+height:200px;
+}
+
+.contenido .secundario{
+float:right;
+width:19%;
+border:2px solid #2EDABB;
+position:relative;
+left:200px;
+bottom:203px;
+height:200px;
+
+}
+
+.pie {
+clear:both;
+border:2px solid #2EDABB;}

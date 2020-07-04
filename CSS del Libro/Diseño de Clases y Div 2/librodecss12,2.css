@@ -1,0 +1,8 @@
+.tema{width:500px;
+height:500px;
+border:2px outset #2ED7DA;
+position:absolute;
+top:50%;
+left:50%;
+margin-top:-250px;
+margin-left:-250px;}

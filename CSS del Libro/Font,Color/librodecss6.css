@@ -1,0 +1,14 @@
+h1{color:blue;
+font-family:georgia;}
+p {color:#FF9B69;
+font-family:times new roman;}
+a,span{color:#69FF94;
+font-family:verdana;}
+div {color:rgb(221,197,24);
+font-family:courier new;}
+
+div.absolute{font-size:absolute;}
+div.em{font-size:3em;}
+div.%{font-size:10%;}
+div.px{font-size:17px;}
+div.pt{font-size:35pt;}

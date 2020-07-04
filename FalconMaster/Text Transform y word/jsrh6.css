@@ -1,0 +1,11 @@
+h1{font-weight:normal; background:yellow; text-align:center;}
+p { color:purple; font-family:cursive;
+font-size:20px;
+font-weight:bold;
+text-align:center;
+line-height:50px;
+text-decoration:line-through;
+text-transform:lowercase;
+letter-spacing:30px;
+word-spacing:60px;
+text-shadow:6px 6px 6px white;}

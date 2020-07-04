@@ -1,0 +1,11 @@
+ul li{list-style-type:none;
+border:3px inset #B829E5;
+width:200px;
+height:100px;
+list-style-position:inside;
+list-style-image:url(../../Imagenes/jsrhoficial2.jpg);  
+}
+
+img{width:10px;
+height:10px;
+}

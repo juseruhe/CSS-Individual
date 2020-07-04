@@ -1,0 +1,12 @@
+a {margin:10px; display:block;}
+.outlook{color:#1DD15C; text-decoration:underline;}
+.sena{color:#1DD15C; text-decoration:none;}
+.ud{font-weight:bold; font-size:80px; text-decoration:line-through;}
+.unal{color:##1DD15C; text-decoration:overline;}
+
+
+a:link{color:#5F4A29;}
+a:visited{color:#780B5C;}
+a:hover{color:#0B7854;}
+a:active{color:#EC3A05;}
+

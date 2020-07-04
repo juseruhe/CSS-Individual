@@ -1,0 +1,24 @@
+img {vertical-align:middle; }
+
+.ti {text-indent:100px; }
+.ls {letter-spacing:30px; }
+.ws{vertical-align:25px; }
+
+pre{white-spacing:pre; background:#19DE1C; width:40px;}
+
+.nw{white-spacing:nowrap; background:#19DE1C; width:40px;}
+
+.pw{white-spacing:pre-wrap; background:#19DE1C; width:40px;}
+
+.pl{white-spacing:pre-line; background:#19DE1C; width:40px;}
+
+.normal{white-spacing:normal; background:#19DE1C; width:40px;}
+
+
+.linea:first-line{text-transform:uppercase; }
+
+.linea{text-align:center; }
+
+.letraway:first-letter{font-size:100px;}
+
+

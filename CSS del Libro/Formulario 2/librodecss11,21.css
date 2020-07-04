@@ -1,0 +1,13 @@
+form div{
+display:block;
+float:left;
+width:49%;}
+
+input:focus{
+border:3px groove #2152AD;
+background:#88EC08;}
+
+div{
+background:#EA0939;}
+
+body{background:#DA2ECF;}

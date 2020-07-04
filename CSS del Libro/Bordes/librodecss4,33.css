@@ -1,0 +1,22 @@
+.estilo{border-style:hidden;}
+.uno{border-style:dotted;}
+.dos{border-style:dashed;}
+.tres{border-style:solid;}
+.cuatro{border-style:double;}
+.cinco{border-style:groove;}
+.seis{border-style:ridge;}
+.siete{border-style:inset;}
+.ocho{border-style:outset;}
+.nueve{border-style:inherit;}
+div{margin:10px; 
+padding:10px;}
+.diez{border-left-style:dotted;
+border-right-style:dashed;
+border-bottom-style:solid;
+border-top-style:double;}
+
+.once{border-right:50px dashed #252679;
+border-left:50px ridge #252679;
+border-top:50px groove #0DB46D;
+border-bottom:50px dotted #CC2DD4;
+}

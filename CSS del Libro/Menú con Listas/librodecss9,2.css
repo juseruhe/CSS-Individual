@@ -1,0 +1,25 @@
+ul.menu{
+clear:both;
+float:left;
+width:100%;
+list-style:none;
+margin:0px;
+padding:0px;
+}
+
+ul.menu li{
+display:inline;
+float:left;}
+
+ul.menu li a:link, ul.menu li a:visited{
+padding:2px,0px,2px,5px;
+display:block;
+text-decoration:none;
+color:#7FFB02;
+background:#646D5B;
+border-top: 5px dashed #15A775;
+border-bottom: 5px dashed #15A775;
+border-right: 5px dashed #15A775;
+
+
+}

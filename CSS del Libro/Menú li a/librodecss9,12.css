@@ -1,0 +1,16 @@
+ul.menu {width:210px;
+list-style:none;
+margin:0;
+padding:0;
+border:3px double #1E13D3;}
+
+ul.menu li{
+border-top:3px double #1E13D3;
+border-bottom:3px double #1E13D3;
+background:#1CD313;}
+
+ul.menu li a:link, ul.menu a:visited{
+padding:10px;
+display:block;
+text-decoration:none;
+color:#E65208;}

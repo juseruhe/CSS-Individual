@@ -1,0 +1,13 @@
+body { background: orange; color:green; font-size:  100px }
+* {  margin : 5; padding : 5; }
+h1 {color: aqua; font-size:50px;}
+h2,h3 {color: pink; font-size:25px; }
+h4,h5,h6 { color:navy; font-size: 12px;}
+p { color: olive; }
+a {color: white; font-size:40px;}
+p a {font-size:12px;}
+p span {font-size: 20px; }
+.red { color: red;}
+p .blue { color: blue;  }
+a[href="http://www.udistrital.edu.co]
+{  font-size:100px; }

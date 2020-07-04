@@ -1,0 +1,71 @@
+.ok{
+display:normal;
+border:3px inset #90A145;
+}
+
+.cambio{
+display:inline;
+border:5px inset #90A145;
+}
+
+.bien{
+display:normal;
+border:3px inset #90A145;}
+
+.change{
+display:block;
+border:5px inset #90A145;}
+
+.change,.cambio,.ok,.bien{margin:30px;}
+
+.v1{
+visibility:visible;
+border:5px inset #90A145;}
+
+.v2{
+visibility:hidden;
+border:5px inset #90A145;}
+
+.v1,.v2{margin:3px;}
+
+
+.of1{
+overflow:visible;
+border:5px inset #90A145;
+}
+
+
+
+.of2{
+overflow:hidden;
+
+border:5px inset #90A145;}
+
+
+
+.of3{
+overflow:scroll;
+border:5px inset #90A145;}
+
+.of1,.of2,.of3{margin:5px;
+width:80px;}
+
+.z1,.z2,.z3 {
+position:absolute;
+background:#90A145;
+}
+
+.z1{z-index:6; top:1px;
+left:8px;
+}
+
+
+
+.z2{z-index:18; top:5px;
+left:5px;
+
+}
+
+.z3{z-index:30; top:2px;
+left:2px;
+}

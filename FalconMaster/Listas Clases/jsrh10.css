@@ -1,0 +1,15 @@
+ul  {list-style-type: square ;
+list-style-position:inside; }
+
+ol{ list-style-type:alpha;}
+
+.prueba{width:100%;background:orange; list-style:none;
+margin:0; padding:0 }
+
+.prueba li {display:inline-block; }
+
+.prueba li a {padding:20px 20px;
+display:inline-block;
+color:red;}
+
+.prueba li a:hover {background:blue; color:white; }

@@ -1,0 +1,26 @@
+#nombres:hover{background:#FF9;}
+#primerapellido:hover{background:#FF9;}
+#segundoapellido:hover{background:#FF9;}
+#email:hover{background:#FF9;}
+#fijo:hover{background:#FF9;}
+#celular:hover{background:#FF9;}
+#direccion:hover{background:#FF9;}
+#codigopostal:hover{background:#FF9;}
+#municipio:hover{background:#FF9;}
+#provincia:hover{background:#FF9;}
+#pais:hover{background:#FF9;}
+form{background:#0D67E9;
+color:#FFFFFF;
+font-family:;
+font-size:;
+margin:10px;
+padding:10px;
+border: 3px outset #;
+}
+select:hover{background:#FF9;}
+input[type="submit"]{background:#000000;
+color:#ffffff;
+width:200px;}
+
+select option {background:#000000;
+color:#ffffff;}

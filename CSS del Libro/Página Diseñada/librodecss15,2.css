@@ -1,0 +1,22 @@
+h1 {color:teal;}
+strong{color:red;}
+span.destacado{color:orange;}
+h2{color:blue;}
+p a {color:red;}
+p a em {color:blue;}
+span.especial{color:purple;}
+caption{color:blue;}
+th.especial{color:orange;}
+td {color:green; width:100px;}
+td strong{color:orange; }
+th{color:red; width:100px;}
+table{border:1px solid #000000; border-collapse:collapse; margin:5px; padding:5px;
+}
+table td{border:1px solid #000000;}
+table th{border:1px solid #000000;}
+
+#adicional{color:olive;}
+span#especial{color:fuchsia;}
+
+#adicional p a {color:green;}
+

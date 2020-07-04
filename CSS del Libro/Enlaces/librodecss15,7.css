@@ -1,0 +1,68 @@
+img{width:200px; height:60px;}
+form{float:right;
+position:relative;
+bottom:70px;}
+.cabacera{border-bottom:3px solid #B37F7F;
+background:#1ADC11;
+}
+a{text-decoration:none;
+}
+h1{border-bottom:3px solid #B37F7F;}
+
+
+.menu{width:150px; height:950px;
+border-right:3px solid #B37F7F;
+border-top:3px solid #B37F7F;
+border-bottom:3px solid #B37F7F;
+border-left:3px solid #B37F7F;
+background:#1ADC11;
+margin:1em;
+font-size:1.3em;}
+
+.menu  a {margin:10px; 
+color:#FFFFFF;
+}
+
+p{color:#1198DC;}
+
+.principal{
+position:relative;
+bottom:750px;
+left:200px;
+width:800px;
+height:650px;
+background:#1ADC11;
+
+}
+div{margin:10px;
+padding:10px;}
+
+.secundario{
+float:right;
+position:relative;
+bottom:1460px;
+border-right:3px solid #B37F7F;
+border-top:3px solid #B37F7F;
+border-bottom:3px solid #B37F7F;
+border-left:3px solid #B37F7F;
+width:200px;
+background:#1ADC11;
+font-size:0.9em;}
+
+h1,h3,h4,h5,h6,h7,h8{
+color:#1117DC;}
+
+h2{color:# #CC6600;
+font-size:1.6em;
+border:1.2em;
+margin:0.3em;}
+
+.pie{clear:both;
+position:relative;
+bottom:450px;
+text-align:center;
+border:1.4em solid #B37F7F;
+background:#1ADC11;
+color:#000000;
+font-family:arial;
+font-size:0.9em;}

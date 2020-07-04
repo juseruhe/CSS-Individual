@@ -1,0 +1,22 @@
+.vinculo{
+border:0;
+padding:0;
+background-color:transparent;
+color:#2152AD;}
+
+.con{
+padding:3px;}
+
+label{
+display:block;
+Margin:5px;
+}
+
+.alta{
+display:block;
+margin:5px;}
+
+div {margin:4px;}
+div label{
+width:25%;
+float:left;}

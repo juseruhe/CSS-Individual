@@ -1,0 +1,33 @@
+.koala{color:olive;}
+
+.ciencia {color:hsl(276, 80%, 51%);
+font-weight:bold;}
+
+.oso{padding:2px;
+border: 3px solid #89D82B;
+background:#212F88;
+}
+
+p.nacional {color:#59C459;}
+
+p.millonarios{color:#4656DC;}
+
+p.bogota{color:#AC5850;}
+
+p.cali{font-size:60px;}
+
+p.medellin{font-weight: bold; }
+
+#nadie{color:#DE1EBB;}
+
+p#verso {font-size:100px;}
+
+p #cama {font-size:3px; }
+
+p, #armario {font-size:75px;}
+
+.totti,.buffon {color:#F16414;
+font-size:10px;}
+
+div.juan span.sebastian {padding:10px;
+color:yellow;}

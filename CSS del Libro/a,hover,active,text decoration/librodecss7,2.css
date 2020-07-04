@@ -1,0 +1,25 @@
+a{display:block; margin:10px; padding:10px;}
+.simple{text-decoration:underline;}
+.color{border-left:medium solid; color:#7CEC05;}
+.ancho{border-right:thick solid; color:#7CEC05;}
+.separado{border-top:10px solid; color:#7CEC05;}
+.discontinuo{border-bottom:thin dashed; color:#7CEC05;}
+
+
+.pdf{padding:20px;
+width:700px;
+background:#BF60A0 url(../../Imagenes/jsrhoficial2.jpg) no-repeat left center;}
+
+.botones{text-decoration:none;
+background:#79C13C;
+color:#3C52C1;
+border:inset 5px  #C1BD3C;
+padding:10px;
+width:200px; }
+
+.botones:hover{
+background:#3CBDC1;
+color:#D11E46;}
+
+.botones:active{
+border:10px inset #EA3F10;}

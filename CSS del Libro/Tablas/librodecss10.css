@@ -1,0 +1,53 @@
+.probando{
+width:300px;
+border:3px inset #03A2B5;
+border-collapse:collapse;
+}
+
+.probando tr, .probando th, .probando td{
+border:3px inset #03A2B5;}
+
+.otro {
+width:300px;
+border:3px inset #27EF1D;
+border-collapse:separate;
+}
+
+.otro tr, .otro th, .otro td{
+border:3px inset #27EF1D;
+}
+
+table{
+padding:2px;
+margin:2px;}
+
+.hide{
+width:300px;
+border:3px inset #B9EF1D;
+border-collapse:collapse;
+caption-side:top;
+
+}
+
+.hide tr, .hide th, .hide td{
+border:3px inset #B9EF1D;
+empty-cells:hide;
+}
+
+.show {
+width:300px;
+border:3px inset #FA2A11;
+border-collapse:collapse;
+caption-side:bottom;
+}
+
+.show tr, .show th, .show td{
+border:3px inset #FA2A11;
+empty-cells:show;
+}
+
+table tr:hover{
+background:#F34904;
+color:#E30AD9;}
+
+

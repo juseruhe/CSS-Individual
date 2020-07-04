@@ -1,0 +1,10 @@
+div.inicio{border:1px dotted #CCC;
+background:#11DCAB;
+padding:5px;}
+
+
+.izquierda{float:left;}
+
+.derecha{float:right;}
+
+div.final{clear:both;}
